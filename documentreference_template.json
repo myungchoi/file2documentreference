@@ -1,0 +1,26 @@
+{
+  "resourceType": "DocumentReference",
+  "status": "current",
+  "type": {
+    "coding": [
+      {
+        "system": "add system",
+        "code": "add code",
+        "display": "add display"
+      }
+    ]
+  },
+  "subject": {
+    "reference": "Patient/id"
+  },
+  "date": "2147-12-05T00:00:00+00:00",
+  "content": [
+    {
+      "attachment": {
+        "contentType": "text/plain",
+        "language": "en-US",
+        "data": ""
+      }
+    }
+  ]
+}
